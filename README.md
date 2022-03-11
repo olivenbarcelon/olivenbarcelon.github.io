@@ -1,9 +1,9 @@
 ## Welcome to GitHub Pages
 
-![Image](https://github-readme-stats.vercel.app/api?username=olivenbarcelon&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![Image](https://github-readme-streak-stats.herokuapp.com/?user=olivenbarcelon&theme=vue-dark&hide_border=true)
+![Image](https://github-readme-stats.vercel.app/api?username=olivenbarcelon&theme=merko&show_icons=true&hide_border=true&count_private=true)
+![Image](https://github-readme-streak-stats.herokuapp.com?user=olivenbarcelon&theme=merko&hide_border=true&date_format=%5BY.%5Dn.j)
 
-You can use the [editor on GitHub](https://github.com/olivenbarcelon/olivenbarcelon.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[GitHub Profile](https://github.com/olivenbarcelon)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
