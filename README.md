@@ -38,9 +38,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
-
-<p align="center">
-  <img align="left" width="400" height="200px" src="https://github-readme-stats.vercel.app/api?username=olivenbarcelon&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
-  <img align="right" width="400" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=olivenbarcelon&theme=vue-dark&hide_border=true" />
-</p>
