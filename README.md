@@ -38,5 +38,5 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 <p align="center">
   <img align="center" width="400" height="200px" src="https://github-readme-stats.vercel.app/api?username=olivenbarcelon&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
-  <img align="center" width="400" height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=olivenbarcelon&theme=vue-dark&hide_border=true" />
+  <img align="center" width="400" height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=olivenbarcelon&theme=vue-dark&hide_border=true" />
 </p>
