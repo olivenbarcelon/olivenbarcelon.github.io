@@ -3,9 +3,9 @@
 ![Image](https://github-readme-stats.vercel.app/api?username=olivenbarcelon&theme=merko&show_icons=true&hide_border=true&count_private=true)
 ![Image](https://github-readme-streak-stats.herokuapp.com?user=olivenbarcelon&theme=merko&hide_border=true&date_format=%5BY.%5Dn.j)
 
-[GitHub Profile](https://github.com/olivenbarcelon)
+<!--[GitHub Profile](https://github.com/olivenbarcelon)
 
-<!--Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
